@@ -41,6 +41,11 @@
   * [Github](https://github.com/wilgucki)
 
   * [Twitter](https://twitter.com/wilgucki)
+ 
+* ###Tobias Yeomans
+  * [Github](https://github.com/tobiasyeomans)
+
+  * [Twitter](https://twitter.com/tobiasyeomans)
 
 
 
